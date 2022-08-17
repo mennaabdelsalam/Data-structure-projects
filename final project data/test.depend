@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1591030942 source:c:\users\menna\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<errno.h>
+	<stdbool.h>
+
+1591609011 source:c:\users\menna\desktop\data structure 1\final project data\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+

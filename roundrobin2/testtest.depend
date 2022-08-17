@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585429062 source:c:\users\menna\desktop\testtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
